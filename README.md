@@ -24,8 +24,8 @@ This project is a simple recipe page built using HTML and CSS. It is responsive 
 
 ### Links
 
-- Solution URL: Not available yet
-- Live Site URL: Not available yet
+- Solution URL: [](https://github.com/fadmaamgoune/recipe-page-challenge)
+- Live Site URL: [](https://fadmaamgoune.github.io/recipe-page-challenge/)
 
 ## My process
 
